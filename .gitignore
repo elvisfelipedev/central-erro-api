@@ -1,0 +1,6 @@
+bin
+obj
+CentralErros.csproj.user
+Dockerfile
+.dockerignore
+docker-compose.yml

@@ -1,0 +1,9 @@
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\bin\Debug\netcoreapp3.1\CentralErros.Business.deps.json
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\bin\Debug\netcoreapp3.1\CentralErros.Business.dll
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\bin\Debug\netcoreapp3.1\CentralErros.Business.pdb
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\obj\Debug\netcoreapp3.1\CentralErros.Business.csprojAssemblyReference.cache
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\obj\Debug\netcoreapp3.1\CentralErros.Business.AssemblyInfoInputs.cache
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\obj\Debug\netcoreapp3.1\CentralErros.Business.AssemblyInfo.cs
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\obj\Debug\netcoreapp3.1\CentralErros.Business.csproj.CoreCompileInputs.cache
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\obj\Debug\netcoreapp3.1\CentralErros.Business.dll
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Business\obj\Debug\netcoreapp3.1\CentralErros.Business.pdb

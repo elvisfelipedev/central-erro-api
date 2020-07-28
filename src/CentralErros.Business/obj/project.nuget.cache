@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObSTapCEbkxFbPBf6enXzUTrBGgGB5m0b7VSw3HP6kdEYnSwSM9w8FdrSv1arZrFlhV9mxx86dJKq+AwirQBGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Cursos\\Codenation C#\\Projeto\\CentralErros\\src\\CentralErros.Business\\CentralErros.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elvis\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\bin\Debug\netcoreapp3.1\CentralErros.Data.deps.json
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\bin\Debug\netcoreapp3.1\CentralErros.Data.dll
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\bin\Debug\netcoreapp3.1\CentralErros.Data.pdb
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\bin\Debug\netcoreapp3.1\CentralErros.Business.dll
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\bin\Debug\netcoreapp3.1\CentralErros.Business.pdb
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\obj\Debug\netcoreapp3.1\CentralErros.Data.csprojAssemblyReference.cache
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\obj\Debug\netcoreapp3.1\CentralErros.Data.AssemblyInfoInputs.cache
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\obj\Debug\netcoreapp3.1\CentralErros.Data.AssemblyInfo.cs
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\obj\Debug\netcoreapp3.1\CentralErros.Data.csproj.CoreCompileInputs.cache
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\obj\Debug\netcoreapp3.1\CentralErros.Data.csproj.CopyComplete
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\obj\Debug\netcoreapp3.1\CentralErros.Data.dll
+D:\Development\Cursos\Codenation C#\Projeto\CentralErros\src\CentralErros.Data\obj\Debug\netcoreapp3.1\CentralErros.Data.pdb
